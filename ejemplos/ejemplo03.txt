@@ -28,4 +28,6 @@
 18.   suma <-- suma + notasCiencias[indice]
 19. Fin Para
 20. promedio[1] <-- suma/3
-21. Escribir "Los promedios son:\n" + promedio[0] + "\n" + promedio[1]
+21. Escribir "Los promedios son:\n" + promedio[0] + "\n" + promedio[1] //los promedios son:
+                                                                       // 8,66    
+                                                                       // 9.66              
